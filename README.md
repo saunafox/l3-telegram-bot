@@ -1,1 +1,1 @@
-# layer3-tg-bot
+# l3-telegram-bot
